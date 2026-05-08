@@ -24,6 +24,23 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <atom:link href="https://ranchodracula.com/feed.xml" rel="self" type="application/rss+xml" />
 <generator>Rancho Dracula Site Builder</generator>
 <item>
+<title>Episode 256: &#34;El cuervo&#34; de Roger Corman</title>
+<link>https://ranchodracula.com/episodes/256-el-cuervo-de-roger-corman/</link>
+<description>Donde se da entrada en nuestro ciclo CORMAN/POE a esta película mamarrachísima con un reparto de lujo.</description>
+<guid isPermaLink="false">episode-256</guid>
+<pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+<itunes:duration>59:03</itunes:duration>
+<itunes:episode>256</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:summary>Donde se da entrada en nuestro ciclo CORMAN/POE a esta película mamarrachísima con un reparto de lujo.</itunes:summary>
+<enclosure
+url="https://www.ivoox.com/256-el-cuervo-roger-corman_mf_173368778_feed_1.mp3"
+length="56689476"
+type="audio/mpeg"
+/>
+<itunes:image href="https://ranchodracula.com/assets/ep_0256.jpg" />
+</item>
+<item>
 <title>Episode 255: Tres secuelas, tres</title>
 <link>https://ranchodracula.com/episodes/255-tres-secuelas-tres/</link>
 <description>Donde se habla de los siempre justificables motivos que hacen que nos gusten las cosas cuando no se atiende a motivos racionales.</description>
@@ -92,7 +109,7 @@ type="audio/mpeg"
 <itunes:image href="https://ranchodracula.com/assets/ep_0252.jpg" />
 </item>
 <item>
-<title>Episode 251: Ciclo BIGELOW: &#34;Le llaman Bodhi&#34;</title>
+<title>Episode 251: &#34;Le llaman Bodhi&#34; de Kathryn Bigelow</title>
 <link>https://ranchodracula.com/episodes/251-ciclo-bigelow-le-llaman-bodhi/</link>
 <description>Donde se prosigue con el ciclo dedicado a Kathryn Bigelow con esta película sobre enamorarse haciendo surf y atracar bancos.</description>
 <guid isPermaLink="false">episode-251</guid>
@@ -194,7 +211,7 @@ type="audio/mpeg"
 <itunes:image href="https://ranchodracula.com/assets/ep_0246.jpg" />
 </item>
 <item>
-<title>Episode 245: CICLO BIGELOW: &#34;Acero azul&#34;</title>
+<title>Episode 245: &#34;Acero azul&#34; de Kathryn Bigelow</title>
 <link>https://ranchodracula.com/episodes/245-ciclo-bigelow-acero-azul/</link>
 <description>Donde se prosigue con el ciclo dedicado a Kathryn Bigelow con este neo-noir hibridado de slasher clásico.</description>
 <guid isPermaLink="false">episode-245</guid>
@@ -364,7 +381,7 @@ type="audio/mpeg"
 <itunes:image href="https://ranchodracula.com/assets/ep_0236.jpg" />
 </item>
 <item>
-<title>Episode 235: CICLO KATHRYN BIGELOW: &#39;Los viajeros de la noche&#39;</title>
+<title>Episode 235: &#34;Los viajeros de la noche&#34; de Kathryn Bigelow</title>
 <link>https://ranchodracula.com/episodes/235-ciclo-kathryn-bigelow-los-viajeros-de-la-noche/</link>
 <description>Donde iniciamos el repaso de la estimulante filmografía de Kathryn Bigelow con un western de vampiros: puro Rancho Drácula destilado.</description>
 <guid isPermaLink="false">episode-235</guid>
@@ -381,7 +398,7 @@ type="audio/mpeg"
 <itunes:image href="https://ranchodracula.com/assets/ep_0235.jpg" />
 </item>
 <item>
-<title>Episode 234: CICLO DE PALMA: Snake Eyes</title>
+<title>Episode 234: &#34;Snake Eyes&#34; de Brian De Palma</title>
 <link>https://ranchodracula.com/episodes/234-ciclo-de-palma-snake-eyes/</link>
 <description>Donde se celebra la existencia de esta pequeña obra maestra que es &amp;quot;Snake Eyes&amp;quot;.</description>
 <guid isPermaLink="false">episode-234</guid>
