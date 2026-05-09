@@ -2,7 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://ranchodracula.com/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
 <url><loc>https://ranchodracula.com/about.html</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+<url><loc>https://ranchodracula.com/news.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
 <url><loc>https://ranchodracula.com/feed.xml</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+<url><loc>https://ranchodracula.com/1/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://ranchodracula.com/page/2/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
+<url><loc>https://ranchodracula.com/page/3/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
+<url><loc>https://ranchodracula.com/page/4/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
+<url><loc>https://ranchodracula.com/page/5/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
+<url><loc>https://ranchodracula.com/page/6/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
 <url><loc>https://ranchodracula.com/episodes/256-el-cuervo-de-roger-corman/</loc><changefreq>never</changefreq><priority>0.7</priority></url>
 <url><loc>https://ranchodracula.com/episodes/255-tres-secuelas-tres/</loc><changefreq>never</changefreq><priority>0.7</priority></url>
 <url><loc>https://ranchodracula.com/episodes/254-herzog-y-la-verdad-extatica/</loc><changefreq>never</changefreq><priority>0.7</priority></url>
