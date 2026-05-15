@@ -24,6 +24,23 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <atom:link href="https://ranchodracula.com/feed.xml" rel="self" type="application/rss+xml" />
 <generator>Rancho Dracula Site Builder</generator>
 <item>
+<title>Episode 257: &#34;El que habla con los muertos&#34; de Brian Lumley</title>
+<link>https://ranchodracula.com/episodes/257-el-que-habla-con-los-muertos-de-brian-lumley/</link>
+<description>Donde se comenta &#34;El que habla con los muertos&#34;, primera entrega de las Crónicas Necrománticas de Brian Lumley. Pulperío vampírico y nigromante.</description>
+<guid isPermaLink="false">episode-257</guid>
+<pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+<itunes:duration>01:10:18</itunes:duration>
+<itunes:episode>257</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:summary>Donde se comenta &#34;El que habla con los muertos&#34;, primera entrega de las Crónicas Necrománticas de Brian Lumley. Pulperío vampírico y nigromante.</itunes:summary>
+<enclosure
+url="https://www.ivoox.com/257-el-habla-muertos-de_mf_173772552_feed_1.mp3"
+length="67503333"
+type="audio/mpeg"
+/>
+<itunes:image href="https://ranchodracula.com/assets/ep_0257.jpg" />
+</item>
+<item>
 <title>Episode 256: &#34;El cuervo&#34; de Roger Corman</title>
 <link>https://ranchodracula.com/episodes/256-el-cuervo-de-roger-corman/</link>
 <description>Donde se da entrada en nuestro ciclo CORMAN/POE a esta película mamarrachísima con un reparto de lujo.</description>
