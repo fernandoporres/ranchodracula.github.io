@@ -24,6 +24,57 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <atom:link href="https://ranchodracula.com/feed.xml" rel="self" type="application/rss+xml" />
 <generator>Rancho Dracula Site Builder</generator>
 <item>
+<title>Episode 260: &#34;El palacio de los espíritus&#34; de Roger Corman</title>
+<link>https://ranchodracula.com/episodes/260-el-palacio-de-los-espiritus-de-roger-corman/</link>
+<description>Donde se enfila la recta final del ciclo que dedicamos a las adaptaciones que hizo Roger Corman de Poe... Aunque esta vez en realidad adapta a Lovecraft.</description>
+<guid isPermaLink="false">episode-260</guid>
+<pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+<itunes:duration>01:07:26</itunes:duration>
+<itunes:episode>260</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:summary>Donde se enfila la recta final del ciclo que dedicamos a las adaptaciones que hizo Roger Corman de Poe... Aunque esta vez en realidad adapta a Lovecraft.</itunes:summary>
+<enclosure
+url="https://www.ivoox.com/260-el-palacio-espiritus-roger_mf_175030717_feed_1.mp3"
+length="64749818"
+type="audio/mpeg"
+/>
+<itunes:image href="https://ranchodracula.com/assets/ep_0260.jpg" />
+</item>
+<item>
+<title>Episode 259: &#34;Femme fatale&#34; de Brian De Palma</title>
+<link>https://ranchodracula.com/episodes/259-femme-fatale-de-brian-de-palma/</link>
+<description>Donde se analiza &#34;Femme fatale&#34;, otro remix que Brian de Palma realiza de sus influencias y su propia obra. Y nosotros encantados.</description>
+<guid isPermaLink="false">episode-259</guid>
+<pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+<itunes:duration>01:07:28</itunes:duration>
+<itunes:episode>259</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:summary>Donde se analiza &#34;Femme fatale&#34;, otro remix que Brian de Palma realiza de sus influencias y su propia obra. Y nosotros encantados.</itunes:summary>
+<enclosure
+url="https://www.ivoox.com/259-ciclo-de-palma-femme-fatale_mf_174587196_feed_1.mp3"
+length="64774478"
+type="audio/mpeg"
+/>
+<itunes:image href="https://ranchodracula.com/assets/ep_0259.jpg" />
+</item>
+<item>
+<title>Episode 258: &#34;Temblores&#34; 1 &amp; 2</title>
+<link>https://ranchodracula.com/episodes/258-temblores-1-2/</link>
+<description>Donde se comenta la película de criaturas subterráneas comepersonas &#34;Temblores&#34; y su secuela sobre dichas criaturas y su evolución en pollos enormes.</description>
+<guid isPermaLink="false">episode-258</guid>
+<pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+<itunes:duration>57:38</itunes:duration>
+<itunes:episode>258</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:summary>Donde se comenta la película de criaturas subterráneas comepersonas &#34;Temblores&#34; y su secuela sobre dichas criaturas y su evolución en pollos enormes.</itunes:summary>
+<enclosure
+url="https://www.ivoox.com/258-temblores-1-2_mf_174199449_feed_1.mp3"
+length="55334034"
+type="audio/mpeg"
+/>
+<itunes:image href="https://ranchodracula.com/assets/ep_0258.jpg" />
+</item>
+<item>
 <title>Episode 257: &#34;El que habla con los muertos&#34; de Brian Lumley</title>
 <link>https://ranchodracula.com/episodes/257-el-que-habla-con-los-muertos-de-brian-lumley/</link>
 <description>Donde se comenta &#34;El que habla con los muertos&#34;, primera entrega de las Crónicas Necrománticas de Brian Lumley. Pulperío vampírico y nigromante.</description>
