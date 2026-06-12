@@ -24,6 +24,23 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <atom:link href="https://ranchodracula.com/feed.xml" rel="self" type="application/rss+xml" />
 <generator>Rancho Dracula Site Builder</generator>
 <item>
+<title>Episode 261: &#34;No profanar el sueño de los muertos&#34; de Jorge Grau</title>
+<link>https://ranchodracula.com/episodes/261-no-profanar-el-sueno-de-los-muertos-de-jorge-grau/</link>
+<description>Donde se analiza con alegría &#34;No profanar el sueño de los muertos&#34; de Jorge Grau. Zombis, ecologismo, sensibilidad gore italiana... Pues lo mejor.</description>
+<guid isPermaLink="false">episode-261</guid>
+<pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+<itunes:duration>59:10</itunes:duration>
+<itunes:episode>261</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:summary>Donde se analiza con alegría &#34;No profanar el sueño de los muertos&#34; de Jorge Grau. Zombis, ecologismo, sensibilidad gore italiana... Pues lo mejor.</itunes:summary>
+<enclosure
+url="https://www.ivoox.com/261-no-profanar-sueno-muertos_mf_175451905_feed_1.mp3"
+length="56805250"
+type="audio/mpeg"
+/>
+<itunes:image href="https://ranchodracula.com/assets/ep_0261.jpg" />
+</item>
+<item>
 <title>Episode 260: &#34;El palacio de los espíritus&#34; de Roger Corman</title>
 <link>https://ranchodracula.com/episodes/260-el-palacio-de-los-espiritus-de-roger-corman/</link>
 <description>Donde se enfila la recta final del ciclo que dedicamos a las adaptaciones que hizo Roger Corman de Poe... Aunque esta vez en realidad adapta a Lovecraft.</description>
