@@ -24,6 +24,40 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <atom:link href="https://ranchodracula.com/feed.xml" rel="self" type="application/rss+xml" />
 <generator>Rancho Dracula Site Builder</generator>
 <item>
+<title>Episode 263: &#34;Dark City&#34; de Alex Proyas</title>
+<link>https://ranchodracula.com/episodes/263-dark-city-de-alex-proyas/</link>
+<description>Donde se comenta &#34;Dark City&#34; de Alex Proyas, pesadilla kafkiana sobre la identidad y la fragilidad de lo real. Con ominosos señores con sombrero.</description>
+<guid isPermaLink="false">episode-263</guid>
+<pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+<itunes:duration>59:58</itunes:duration>
+<itunes:episode>263</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:summary>Donde se comenta &#34;Dark City&#34; de Alex Proyas, pesadilla kafkiana sobre la identidad y la fragilidad de lo real. Con ominosos señores con sombrero.</itunes:summary>
+<enclosure
+url="https://www.ivoox.com/263-dark-city-alex-proyas_mf_176313519_feed_1.mp3"
+length="57582236"
+type="audio/mpeg"
+/>
+<itunes:image href="https://ranchodracula.com/assets/ep_0263.jpg" />
+</item>
+<item>
+<title>Episode 262: &#34;La División de Antimemética no existe&#34; de QNTM</title>
+<link>https://ranchodracula.com/episodes/262-la-division-antimemetica-no-existe-de-qntm/</link>
+<description>Donde se exploran las ideas propuestas en &#34;La División de Antimemética no existe&#34; de QNTM con bastante alborozo.</description>
+<guid isPermaLink="false">episode-262</guid>
+<pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+<itunes:duration>01:00:08</itunes:duration>
+<itunes:episode>262</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:summary>Donde se exploran las ideas propuestas en &#34;La División de Antimemética no existe&#34; de QNTM con bastante alborozo.</itunes:summary>
+<enclosure
+url="https://www.ivoox.com/262-la-division-antimemetica-no-existe_mf_175895885_feed_1.mp3"
+length="57734807"
+type="audio/mpeg"
+/>
+<itunes:image href="https://ranchodracula.com/assets/ep_0262.jpg" />
+</item>
+<item>
 <title>Episode 261: &#34;No profanar el sueño de los muertos&#34; de Jorge Grau</title>
 <link>https://ranchodracula.com/episodes/261-no-profanar-el-sueno-de-los-muertos-de-jorge-grau/</link>
 <description>Donde se analiza con alegría &#34;No profanar el sueño de los muertos&#34; de Jorge Grau. Zombis, ecologismo, sensibilidad gore italiana... Pues lo mejor.</description>
