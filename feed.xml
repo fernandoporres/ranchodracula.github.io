@@ -24,6 +24,23 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <atom:link href="https://ranchodracula.com/feed.xml" rel="self" type="application/rss+xml" />
 <generator>Rancho Dracula Site Builder</generator>
 <item>
+<title>Episode 264: El juego de mesa de MAD</title>
+<link>https://ranchodracula.com/episodes/264-el-juego-de-mesa-de-mad/</link>
+<description>Donde se habla de revistas satíricas, de juegos satíricos y de la importancia de satirizar todo lo que se menee.</description>
+<guid isPermaLink="false">episode-264</guid>
+<pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+<itunes:duration>01:00:45</itunes:duration>
+<itunes:episode>264</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:summary>Donde se habla de revistas satíricas, de juegos satíricos y de la importancia de satirizar todo lo que se menee.</itunes:summary>
+<enclosure
+url="https://www.ivoox.com/264-el-juego-mesa-mad_mf_176753961_feed_1.mp3"
+length="58321188"
+type="audio/mpeg"
+/>
+<itunes:image href="https://ranchodracula.com/assets/ep_0264.jpg" />
+</item>
+<item>
 <title>Episode 263: &#34;Dark City&#34; de Alex Proyas</title>
 <link>https://ranchodracula.com/episodes/263-dark-city-de-alex-proyas/</link>
 <description>Donde se comenta &#34;Dark City&#34; de Alex Proyas, pesadilla kafkiana sobre la identidad y la fragilidad de lo real. Con ominosos señores con sombrero.</description>
