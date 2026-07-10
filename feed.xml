@@ -24,6 +24,23 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <atom:link href="https://ranchodracula.com/feed.xml" rel="self" type="application/rss+xml" />
 <generator>Rancho Dracula Site Builder</generator>
 <item>
+<title>Episode 265: &#34;Me llamo Rojo&#34; de Orhan Pamuk</title>
+<link>https://ranchodracula.com/episodes/265-me-llamo-rojo-de-orhan-pamuk/</link>
+<description>Donde se reflexiona acerca de los juegos narrativos de &#34;Me llamo Rojo&#34; de Orhan Pamuk.</description>
+<guid isPermaLink="false">episode-265</guid>
+<pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+<itunes:duration>37:30</itunes:duration>
+<itunes:episode>265</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:summary>Donde se reflexiona acerca de los juegos narrativos de &#34;Me llamo Rojo&#34; de Orhan Pamuk.</itunes:summary>
+<enclosure
+url="https://www.ivoox.com/265-me-llamo-rojo-orhan-pamuk_mf_177106255_feed_1.mp3"
+length="36323996"
+type="audio/mpeg"
+/>
+<itunes:image href="https://ranchodracula.com/assets/ep_0265.jpg" />
+</item>
+<item>
 <title>Episode 264: El juego de mesa de MAD</title>
 <link>https://ranchodracula.com/episodes/264-el-juego-de-mesa-de-mad/</link>
 <description>Donde se habla de revistas satíricas, de juegos satíricos y de la importancia de satirizar todo lo que se menee.</description>
