@@ -24,6 +24,23 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <atom:link href="https://ranchodracula.com/feed.xml" rel="self" type="application/rss+xml" />
 <generator>Rancho Dracula Site Builder</generator>
 <item>
+<title>Episode 266: &#34;Tierras perdidas&#34; de Paul W.S. Anderson</title>
+<link>https://ranchodracula.com/episodes/266-tierras-perdidas-de-paul-w-s-anderson/</link>
+<description>Donde se comenta la última película de un autor muy querido en esta casa: Paul Anderson el Bueno.</description>
+<guid isPermaLink="false">episode-266</guid>
+<pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+<itunes:duration>01:04:14</itunes:duration>
+<itunes:episode>266</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:summary>Donde se comenta la última película de un autor muy querido en esta casa: Paul Anderson el Bueno.</itunes:summary>
+<enclosure
+url="https://www.ivoox.com/listen_mn_177573200_1.mp3"
+length="0"
+type="audio/mpeg"
+/>
+<itunes:image href="https://ranchodracula.com/assets/ep_266.jpg" />
+</item>
+<item>
 <title>Episode 265: &#34;Me llamo Rojo&#34; de Orhan Pamuk</title>
 <link>https://ranchodracula.com/episodes/265-me-llamo-rojo-de-orhan-pamuk/</link>
 <description>Donde se reflexiona acerca de los juegos narrativos de &#34;Me llamo Rojo&#34; de Orhan Pamuk.</description>
@@ -2847,7 +2864,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 099: El silencio de los corderos</title>
-<link>https://ranchodracula.com/episodes/99-rancho-dracula-el-silencio-de-los-corderos/</link>
+<link>https://ranchodracula.com/episodes/099-rancho-dracula-el-silencio-de-los-corderos/</link>
 <description>Donde se comenta la novela &#34;El silencio de los corderos&#34; de Thomas Harris con la participación especial de Cristina Ortiz, experta en asuntos...</description>
 <guid isPermaLink="false">episode-099</guid>
 <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
@@ -2864,7 +2881,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 098: Rancho Drácula: Ciclo Cronenberg &#34;El almuerzo desnudo&#34;</title>
-<link>https://ranchodracula.com/episodes/98-rancho-dracula-ciclo-cronenberg-el-almuerzo-desnudo/</link>
+<link>https://ranchodracula.com/episodes/098-rancho-dracula-ciclo-cronenberg-el-almuerzo-desnudo/</link>
 <description>Donde se continúa el Ciclo Cronenberg hablando de &#34;El almuerzo desnudo&#34;, una película que te extermina todo pensamiento racional.</description>
 <guid isPermaLink="false">episode-098</guid>
 <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
@@ -2881,7 +2898,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 097: Clickbait, el episodio que nunca grabaríamos</title>
-<link>https://ranchodracula.com/episodes/97-ranchito-dracula-clickbait-el-episodio-que-nunca-grabariamos/</link>
+<link>https://ranchodracula.com/episodes/097-ranchito-dracula-clickbait-el-episodio-que-nunca-grabariamos/</link>
 <description>Donde se dan consejos literarios, pero de forma algo desganada para que nadie se los vaya a creer demasiado.</description>
 <guid isPermaLink="false">episode-097</guid>
 <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
@@ -2898,7 +2915,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 096: Me gusta ir en moto</title>
-<link>https://ranchodracula.com/episodes/96-ranchito-dracula-me-gusta-ir-en-moto/</link>
+<link>https://ranchodracula.com/episodes/096-ranchito-dracula-me-gusta-ir-en-moto/</link>
 <description>Donde se dice que es mejor ir en moto en el videojuego &#34;Days gone&#34; que ver la película &#34;Glass onion&#34;. Ya, una desfachatez.</description>
 <guid isPermaLink="false">episode-096</guid>
 <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
@@ -2915,7 +2932,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 095: Tampoco hace falta contarlo todo</title>
-<link>https://ranchodracula.com/episodes/95-ranchito-dracula-tampoco-hace-falta-contarlo-todo/</link>
+<link>https://ranchodracula.com/episodes/095-ranchito-dracula-tampoco-hace-falta-contarlo-todo/</link>
 <description>Donde se reivindican los placeres secretos hablando un poco de la película menos secreta de 2022: &#34;Avatar 2&#34;.</description>
 <guid isPermaLink="false">episode-095</guid>
 <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
@@ -2932,7 +2949,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 094: Lo mejor de (nuestro) 2022</title>
-<link>https://ranchodracula.com/episodes/94-rancho-dracula-lo-mejor-de-nuestro-2022/</link>
+<link>https://ranchodracula.com/episodes/094-rancho-dracula-lo-mejor-de-nuestro-2022/</link>
 <description>Donde se da un repaso a algunas de las cosas que más han disfrutado John Tones y Francisco Serrano a lo largo de este 2022. Es decir, tebeos y...</description>
 <guid isPermaLink="false">episode-094</guid>
 <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
@@ -2949,7 +2966,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 093: Especial &#34;Navidades negras&#34;</title>
-<link>https://ranchodracula.com/episodes/93-rancho-dracula-especial-navidades-negras/</link>
+<link>https://ranchodracula.com/episodes/093-rancho-dracula-especial-navidades-negras/</link>
 <description>Donde se celebra la Navidad (más o menos) con un alegre visionado de &#34;Black Christmas&#34;, dirigida por Bob Clark. Película que asienta las bases del...</description>
 <guid isPermaLink="false">episode-093</guid>
 <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
@@ -2966,7 +2983,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 092: Rancho Drácula: Ciclo Cronenberg &#34;Dead Ringers (Inseparables)&#34;</title>
-<link>https://ranchodracula.com/episodes/92-rancho-dracula-ciclo-cronenberg-dead-ringers-inseparables/</link>
+<link>https://ranchodracula.com/episodes/092-rancho-dracula-ciclo-cronenberg-dead-ringers-inseparables/</link>
 <description>Donde se continúa el Ciclo Cronenberg hablando &#34;Dead Ringers&#34; o &#34;Inseparables&#34;, una película sobre gemelos y turbias relaciones especulares.</description>
 <guid isPermaLink="false">episode-092</guid>
 <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
@@ -2983,7 +3000,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 091: Sobre la inspiración y la memoria</title>
-<link>https://ranchodracula.com/episodes/91-ranchito-dracula-sobre-la-inspiracion-y-la-memoria/</link>
+<link>https://ranchodracula.com/episodes/091-ranchito-dracula-sobre-la-inspiracion-y-la-memoria/</link>
 <description>Donde se reflexiona sobre el plagio y la memoria y todo lo que media entre ellos a cuento de &#34;Bloodborne&#34;, &#34;Messiah of evil&#34; y &#34;Martyrs&#34;, entre otras...</description>
 <guid isPermaLink="false">episode-091</guid>
 <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
@@ -3000,7 +3017,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 090: Vivimos en una Society</title>
-<link>https://ranchodracula.com/episodes/90-ranchito-dracula-vivimos-en-una-society/</link>
+<link>https://ranchodracula.com/episodes/090-ranchito-dracula-vivimos-en-una-society/</link>
 <description>Donde se le dan vueltas a una de las grandes películas de metáfora-en-tu-cara, &#34;Society&#34;, y se reivindica la falta de sutileza como cosa a perseguir.</description>
 <guid isPermaLink="false">episode-090</guid>
 <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
@@ -3017,7 +3034,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 089: Satanás / The black cat</title>
-<link>https://ranchodracula.com/episodes/89-rancho-dracula-satanas-the-black-cat/</link>
+<link>https://ranchodracula.com/episodes/089-rancho-dracula-satanas-the-black-cat/</link>
 <description>Donde se comenta la película &#34;Satanás&#34; o &#34;The black cat&#34;, dirigida por Edgar G. Ulmer en 1934, con unos apoteósicos Bela Lugosi y Boris Karloff.</description>
 <guid isPermaLink="false">episode-089</guid>
 <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
@@ -3034,7 +3051,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 088: El gran desierto</title>
-<link>https://ranchodracula.com/episodes/88-rancho-dracula-el-gran-desierto/</link>
+<link>https://ranchodracula.com/episodes/088-rancho-dracula-el-gran-desierto/</link>
 <description>Donde se comenta y analiza &#34;El gran desierto&#34; de James Ellroy, una novela negra llena de atrocidades y muchísimos informes policiales.</description>
 <guid isPermaLink="false">episode-088</guid>
 <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
@@ -3051,7 +3068,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 087: La marca del vampiro</title>
-<link>https://ranchodracula.com/episodes/87-ranchito-dracula-la-marca-del-vampiro/</link>
+<link>https://ranchodracula.com/episodes/087-ranchito-dracula-la-marca-del-vampiro/</link>
 <description>Donde se hace una reseñita breve y satisfecha de &#34;La marca del vampiro&#34; de Tod Browning, una película que también es una broma de ochenta y tantos...</description>
 <guid isPermaLink="false">episode-087</guid>
 <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
@@ -3068,7 +3085,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 086: Mundo extraño, pero sin pasarse</title>
-<link>https://ranchodracula.com/episodes/86-ranchito-dracula-mundo-extrano-pero-sin-pasarse/</link>
+<link>https://ranchodracula.com/episodes/086-ranchito-dracula-mundo-extrano-pero-sin-pasarse/</link>
 <description>Donde se habla de algunas secuencias de la última película de Disney, &#34;Mundo extraño&#34;, y nos preguntamos qué extraña fobia le tienen las grandes...</description>
 <guid isPermaLink="false">episode-086</guid>
 <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
@@ -3085,7 +3102,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 085: ESPECIAL HALLOWEEN III: Season of the Witch</title>
-<link>https://ranchodracula.com/episodes/85-rancho-dracula-especial-halloween-iii-season-of-the-witch/</link>
+<link>https://ranchodracula.com/episodes/085-rancho-dracula-especial-halloween-iii-season-of-the-witch/</link>
 <description>Donde se celebra Halloween comentando &#34;Halloween III: Season of the Witch&#34;, extraña y hechicera secuela con un 0% de slasher en su metraje.</description>
 <guid isPermaLink="false">episode-085</guid>
 <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
@@ -3102,7 +3119,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 084: Rancho Drácula: Ciclo Cronenberg &#34;La mosca&#34;</title>
-<link>https://ranchodracula.com/episodes/84-rancho-dracula-ciclo-cronenberg-la-mosca/</link>
+<link>https://ranchodracula.com/episodes/084-rancho-dracula-ciclo-cronenberg-la-mosca/</link>
 <description>Donde se comenta &#34;La mosca&#34; (1986) de David Cronenberg, lo que aporta y lo que cambia con respecto tanto al relato original como a la primera...</description>
 <guid isPermaLink="false">episode-084</guid>
 <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
@@ -3119,7 +3136,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 083: La ciencia y la ficción (directo HOSTIA UN LIBRO 2022)</title>
-<link>https://ranchodracula.com/episodes/83-rancho-dracula-la-ciencia-y-la-ficcion-directo-hostia-un-libro-2022/</link>
+<link>https://ranchodracula.com/episodes/083-rancho-dracula-la-ciencia-y-la-ficcion-directo-hostia-un-libro-2022/</link>
 <description>Donde se habla de cómo se te mete la ciencia ficción en la cabeza y ya no sale por mucho que lo intentes. Y donde el misterioso grupo NYARLATUPÉ...</description>
 <guid isPermaLink="false">episode-083</guid>
 <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
@@ -3136,7 +3153,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 082: In &amp; Of Itself</title>
-<link>https://ranchodracula.com/episodes/82-ranchito-dracula-in-of-itself/</link>
+<link>https://ranchodracula.com/episodes/082-ranchito-dracula-in-of-itself/</link>
 <description>Donde se recomienda &#34;In and of itself&#34; de Derek Delgaudio y se reflexiona sobre magia, mentalismo y otras argucias para doblegar tu voluntad.</description>
 <guid isPermaLink="false">episode-082</guid>
 <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
@@ -3153,7 +3170,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 081: Rancho Drácula. Ciclo Cronenberg &#34;Crímenes del futuro&#34; (2022)</title>
-<link>https://ranchodracula.com/episodes/81-rancho-dracula-ciclo-cronenberg-crimenes-del-futuro-2022/</link>
+<link>https://ranchodracula.com/episodes/081-rancho-dracula-ciclo-cronenberg-crimenes-del-futuro-2022/</link>
 <description>Donde se da un salto en el Ciclo Cronenberg para comentar la reciente &#34;Crímenes del futuro&#34;, inesperada síntesis o recapitulación del tema...</description>
 <guid isPermaLink="false">episode-081</guid>
 <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
@@ -3170,7 +3187,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 080: Bensonseñora y otros cadáveres</title>
-<link>https://ranchodracula.com/episodes/80-ranchito-dracula-bensonsenora-y-otros-cadaveres/</link>
+<link>https://ranchodracula.com/episodes/080-ranchito-dracula-bensonsenora-y-otros-cadaveres/</link>
 <description>Donde se discuten los intríngulis de la película &#34;Un cadáver a los postres&#34; y si Agatha Christie no estaba, para empezar, tomándonos el pelo desde el...</description>
 <guid isPermaLink="false">episode-080</guid>
 <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
@@ -3187,7 +3204,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 079: La noche de los maniquís</title>
-<link>https://ranchodracula.com/episodes/79-rancho-dracula-la-noche-de-los-maniquis/</link>
+<link>https://ranchodracula.com/episodes/079-rancho-dracula-la-noche-de-los-maniquis/</link>
 <description>Donde se habla de &#34;La noche de los maniquís&#34; de Stephen Graham Jones, una historia que parece que va por un sitio y luego va por otro. Muere mucha...</description>
 <guid isPermaLink="false">episode-079</guid>
 <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
@@ -3204,7 +3221,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 078: Rancho Drácula: Ciclo Cronenberg &#34;Videodrome&#34;</title>
-<link>https://ranchodracula.com/episodes/78-rancho-dracula-ciclo-cronenberg-videodrome/</link>
+<link>https://ranchodracula.com/episodes/078-rancho-dracula-ciclo-cronenberg-videodrome/</link>
 <description>Donde se continua el Ciclo sobre la obra de David Cronenberg, ahora comentando &#34;Videodrome&#34; (1983) y se grita que muerte al videódromo y larga vida a...</description>
 <guid isPermaLink="false">episode-078</guid>
 <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
@@ -3221,7 +3238,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 077: Dos Psicosis II, dos</title>
-<link>https://ranchodracula.com/episodes/77-dos-psicosis-ii-dos/</link>
+<link>https://ranchodracula.com/episodes/077-dos-psicosis-ii-dos/</link>
 <description>Donde se sopesa la posibilidad de que las segundas partes no solo sean buenas, sino que tengan abundante tela que cortar.</description>
 <guid isPermaLink="false">episode-077</guid>
 <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
@@ -3238,7 +3255,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 076: Entrevista con el vampiro</title>
-<link>https://ranchodracula.com/episodes/76-rancho-dracula-entrevista-con-el-vampiro/</link>
+<link>https://ranchodracula.com/episodes/076-rancho-dracula-entrevista-con-el-vampiro/</link>
 <description>Donde se habla de la novela &#34;Entrevista con el vampiro&#34; de Anne Rice y de la adaptación cinematográfica de Neil Jordan y de manera inevitable se cae...</description>
 <guid isPermaLink="false">episode-076</guid>
 <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
@@ -3255,7 +3272,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 075: Rancho Drácula: Ciclo Cronenberg &#34;Cromosoma 3&#34; / &#34;Scanners&#34;</title>
-<link>https://ranchodracula.com/episodes/75-rancho-dracula-ciclo-cronenberg-cromosoma-3-scanners/</link>
+<link>https://ranchodracula.com/episodes/075-rancho-dracula-ciclo-cronenberg-cromosoma-3-scanners/</link>
 <description>Donde se sigue con el Ciclo dedicado a David Cronenberg y se habla de las (espeluznantes y explosivas) películas &#34;Cromosoma 3&#34; (1979) y &#34;Scanners&#34;...</description>
 <guid isPermaLink="false">episode-075</guid>
 <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
@@ -3272,7 +3289,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 074: Guitarra de fuego</title>
-<link>https://ranchodracula.com/episodes/74-ranchito-dracula-guitarra-de-fuego/</link>
+<link>https://ranchodracula.com/episodes/074-ranchito-dracula-guitarra-de-fuego/</link>
 <description>Donde se habla de &#34;Mad Max: Fury Road&#34; (2015) y su worldbuiding, pero en realidad solo se habla de guitarras flamígeras y pulpos que tocan la batería.</description>
 <guid isPermaLink="false">episode-074</guid>
 <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
@@ -3289,7 +3306,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 073: James Bond contra Satán</title>
-<link>https://ranchodracula.com/episodes/73-ranchito-dracula-james-bond-contra-satan/</link>
+<link>https://ranchodracula.com/episodes/073-ranchito-dracula-james-bond-contra-satan/</link>
 <description>Donde se habla de la revista Fuera Borda, del Agente 327, de conjuras para condenar Inglaterra, de las películas de la Hammer, de druidas, y de cómo...</description>
 <guid isPermaLink="false">episode-073</guid>
 <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
@@ -3306,7 +3323,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 072: El Conan de Flaubert</title>
-<link>https://ranchodracula.com/episodes/72-rancho-dracula-el-conan-de-flaubert/</link>
+<link>https://ranchodracula.com/episodes/072-rancho-dracula-el-conan-de-flaubert/</link>
 <description>Donde se habla de &#34;Salambó&#34; de Gustave Flaubert, una novela sobre guerras inexpiables y pasiones terribles, y se intenta trazar su influencia en la...</description>
 <guid isPermaLink="false">episode-072</guid>
 <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
@@ -3323,7 +3340,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 071: Rancho Drácula: Ciclo Cronenberg &#34;Vinieron de dentro de&#34; / &#34;Rabia&#34;</title>
-<link>https://ranchodracula.com/episodes/71-rancho-dracula-ciclo-cronenberg-vinieron-de-dentro-de-rabia/</link>
+<link>https://ranchodracula.com/episodes/071-rancho-dracula-ciclo-cronenberg-vinieron-de-dentro-de-rabia/</link>
 <description>Donde se sigue con el Ciclo dedicado a David Cronenberg y se habla de las (zombificadoras) películas &#34;Vinieron de dentro de&#34; (1975) y &#34;Rabia (1977)....</description>
 <guid isPermaLink="false">episode-071</guid>
 <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
@@ -3340,7 +3357,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 070: El Tristero</title>
-<link>https://ranchodracula.com/episodes/70-ranchito-dracula-el-tristero/</link>
+<link>https://ranchodracula.com/episodes/070-ranchito-dracula-el-tristero/</link>
 <description>Donde se habla de &#34;La subasta del lote 49&#34; en particular y de la obra de Thomas Pynchon en general y se hacen algunas recomendaciones y reflexiones al...</description>
 <guid isPermaLink="false">episode-070</guid>
 <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
@@ -3357,7 +3374,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 069: Un pepinillo descomunal</title>
-<link>https://ranchodracula.com/episodes/69-ranchito-dracula-un-pepinillo-descomunal/</link>
+<link>https://ranchodracula.com/episodes/069-ranchito-dracula-un-pepinillo-descomunal/</link>
 <description>Donde se aprovecha el tracklist de versiones de Julián Hernández &#34;Folla con él&#34; para pinchar canciones de Siniestro Total que no son versiones y...</description>
 <guid isPermaLink="false">episode-069</guid>
 <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
@@ -3374,7 +3391,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 068: Franky y Johnny y Freddy</title>
-<link>https://ranchodracula.com/episodes/68-rancho-dracula-franky-y-johnny-y-freddy/</link>
+<link>https://ranchodracula.com/episodes/068-rancho-dracula-franky-y-johnny-y-freddy/</link>
 <description>Donde se utiliza como excusa de la antología de relatos &#34;Los siete sueños de Freddy Krueger&#34; para hablar largo y tendido del personaje, las películas...</description>
 <guid isPermaLink="false">episode-068</guid>
 <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
@@ -3391,7 +3408,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 067: Rancho Drácula: Ciclo Cronenberg &#34;Stereo&#34; / &#34;Crimes of the future&#34;</title>
-<link>https://ranchodracula.com/episodes/67-rancho-dracula-ciclo-cronenberg-stereo-crimes-of-the-future/</link>
+<link>https://ranchodracula.com/episodes/067-rancho-dracula-ciclo-cronenberg-stereo-crimes-of-the-future/</link>
 <description>Donde se comienza con el ciclo dedicado a la filmografía de David Cronenberg hablando de los mediometrajes &#34;Stereo&#34; (1969) y &#34;Crimes of the future&#34;...</description>
 <guid isPermaLink="false">episode-067</guid>
 <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
@@ -3408,7 +3425,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 066: La balada del látigo</title>
-<link>https://ranchodracula.com/episodes/66-ranchito-dracula-la-balada-del-latigo/</link>
+<link>https://ranchodracula.com/episodes/066-ranchito-dracula-la-balada-del-latigo/</link>
 <description>Donde se rejuega al &#34;Red Dead Redemption 2&#34; despacito y se habla de lo importante que es ser generoso y tener buen ánimo, así en general.</description>
 <guid isPermaLink="false">episode-066</guid>
 <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
@@ -3425,7 +3442,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 065: Chuin chuin chuin - Origins</title>
-<link>https://ranchodracula.com/episodes/65-ranchito-dracula-chuin-chuin-chuin-origins/</link>
+<link>https://ranchodracula.com/episodes/065-ranchito-dracula-chuin-chuin-chuin-origins/</link>
 <description>Donde visitamos los orígenes de &#34;Psicosis&#34;, que no es Norman Bates envenenando con cianuro a su madre, sino el libro de Robert Bloch en el que se...</description>
 <guid isPermaLink="false">episode-065</guid>
 <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
@@ -3442,7 +3459,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 064: La primavera se abre como una navaja</title>
-<link>https://ranchodracula.com/episodes/64-ranchito-dracula-la-primavera-se-abre-como-una-navaja/</link>
+<link>https://ranchodracula.com/episodes/064-ranchito-dracula-la-primavera-se-abre-como-una-navaja/</link>
 <description>Donde se intenta hablar de &#34;El ensayo de cristal&#34; de Anne Carson y se termina balbuceando sobre la experiencia lectora y las transformaciones que...</description>
 <guid isPermaLink="false">episode-064</guid>
 <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
@@ -3459,7 +3476,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 063: Todos los aquelarres del mañana</title>
-<link>https://ranchodracula.com/episodes/63-rancho-libre-todos-los-aquelarres-del-manana/</link>
+<link>https://ranchodracula.com/episodes/063-rancho-libre-todos-los-aquelarres-del-manana/</link>
 <description>Donde se comenta &#34;The Lords of Salem&#34; de Rob Zombie y se habla de explotaciones, arte y ensayo y satanismos varios.</description>
 <guid isPermaLink="false">episode-063</guid>
 <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
@@ -3476,7 +3493,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 062: Placeres no culpables</title>
-<link>https://ranchodracula.com/episodes/62-ranchito-dracula-placeres-no-culpables/</link>
+<link>https://ranchodracula.com/episodes/062-ranchito-dracula-placeres-no-culpables/</link>
 <description>Donde se usa el venerable whodunit de toda la vida para pensar por qué nos gustan tanto los géneros en los que nos sentimos como en casa sin ningún...</description>
 <guid isPermaLink="false">episode-062</guid>
 <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
@@ -3493,7 +3510,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 061: Ese mood poético</title>
-<link>https://ranchodracula.com/episodes/61-rancho-libre-ese-mood-poetico/</link>
+<link>https://ranchodracula.com/episodes/061-rancho-libre-ese-mood-poetico/</link>
 <description>Donde se habla de la poética de la vida cotidiana y de la abolición del trabajo asalariado con Beatriz Sevilla, autora de &#34;Vida en Martes&#34;. Y dos...</description>
 <guid isPermaLink="false">episode-061</guid>
 <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
@@ -3510,7 +3527,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 060: Trauma, sexo, ecuaciones y onomatopeyas</title>
-<link>https://ranchodracula.com/episodes/60-ranchito-dracula-trauma-sexo-ecuaciones-y-onomatopeyas/</link>
+<link>https://ranchodracula.com/episodes/060-ranchito-dracula-trauma-sexo-ecuaciones-y-onomatopeyas/</link>
 <description>Donde se habla de la experimentación formal y temática de &#34;La exhibición de atrocidades&#34; de J. G. Ballard y del rostro de Marilyn Monroe ampliado un...</description>
 <guid isPermaLink="false">episode-060</guid>
 <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
@@ -3527,7 +3544,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 059: El bolsilibro más rocambolesco de la historia</title>
-<link>https://ranchodracula.com/episodes/59-ranchito-dracula-el-bolsilibro-mas-rocambolesco-de-la-historia/</link>
+<link>https://ranchodracula.com/episodes/059-ranchito-dracula-el-bolsilibro-mas-rocambolesco-de-la-historia/</link>
 <description>En el que se aprovecha una lectura del churrigueresco &#34;Sangrienta evocación&#34; de Frank Caudett para apuntar a varas de medir y a las inconsistencias a...</description>
 <guid isPermaLink="false">episode-059</guid>
 <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
@@ -3544,7 +3561,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 058: Rentistas en Italia</title>
-<link>https://ranchodracula.com/episodes/58-rancho-dracula-rentistas-en-italia/</link>
+<link>https://ranchodracula.com/episodes/058-rancho-dracula-rentistas-en-italia/</link>
 <description>Donde se comenta &#34;El talento de Mr. Ripley&#34; de Patricia Highsmith y sus dos adaptaciones más conocidas al audiovisual. También se habla de lo guapo...</description>
 <guid isPermaLink="false">episode-058</guid>
 <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
@@ -3561,7 +3578,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 057: La rima literaria</title>
-<link>https://ranchodracula.com/episodes/57-ranchito-dracula-la-rima-literaria/</link>
+<link>https://ranchodracula.com/episodes/057-ranchito-dracula-la-rima-literaria/</link>
 <description>Donde Francisco Serrano sigue tirando del hilo de las conexiones entre autores y toma de ejemplo ahora &#34;Libra&#34; de Don Delillo, una novela sobre Lee...</description>
 <guid isPermaLink="false">episode-057</guid>
 <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
@@ -3578,7 +3595,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 056: Nuestros primeros terrores</title>
-<link>https://ranchodracula.com/episodes/56-rancho-dracula-nuestros-primeros-terrores/</link>
+<link>https://ranchodracula.com/episodes/056-rancho-dracula-nuestros-primeros-terrores/</link>
 <description>Donde John Tones y Francisco Serrano se ponen en plan personal y hablan de sus primeras experiencias con el terror y las cosas que dan miedo en...</description>
 <guid isPermaLink="false">episode-056</guid>
 <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
@@ -3595,7 +3612,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 055: Música corrosiva, entrevistas a la par</title>
-<link>https://ranchodracula.com/episodes/55-ranchito-dracula-musica-corrosiva-entrevistas-a-la-par/</link>
+<link>https://ranchodracula.com/episodes/055-ranchito-dracula-musica-corrosiva-entrevistas-a-la-par/</link>
 <description>Donde se revisa el contenido del libro de entrevistas &#34;Mierda de Bizkaia y sus grupos punk maqueteros&#34; y se divaga acerca de la importancia de las...</description>
 <guid isPermaLink="false">episode-055</guid>
 <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
@@ -3612,7 +3629,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 054: La parte de los crímenes</title>
-<link>https://ranchodracula.com/episodes/54-ranchito-dracula-la-parte-de-los-crimenes/</link>
+<link>https://ranchodracula.com/episodes/054-ranchito-dracula-la-parte-de-los-crimenes/</link>
 <description>Donde se habla de la íntima relación literaria entre &#34;2666&#34; de Roberto Bolaño y &#34;Mis rincones oscuros&#34; de James Ellroy.</description>
 <guid isPermaLink="false">episode-054</guid>
 <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
@@ -3629,7 +3646,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 053: El problema de los muertos que no se quedan quietos</title>
-<link>https://ranchodracula.com/episodes/53-ranchito-dracula-el-problema-de-los-muertos-que-no-se-quedan-quietos/</link>
+<link>https://ranchodracula.com/episodes/053-ranchito-dracula-el-problema-de-los-muertos-que-no-se-quedan-quietos/</link>
 <description>Donde se revisa la novela &#34;Las Diabólicas&#34; de Boileau y Narcejac y se compara con sus dos adaptaciones, y se llega a la conclusión de que la culpa y...</description>
 <guid isPermaLink="false">episode-053</guid>
 <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
@@ -3646,7 +3663,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 052: Tulpas y hombres vacíos</title>
-<link>https://ranchodracula.com/episodes/52-rancho-libre-tulpas-y-hombres-vacios/</link>
+<link>https://ranchodracula.com/episodes/052-rancho-libre-tulpas-y-hombres-vacios/</link>
 <description>Donde se clausura (al fin) el cine club navideño con &#34;El hombre vacío&#34; de David Prior y se habla un buen rato de horrores abstractos y esferas...</description>
 <guid isPermaLink="false">episode-052</guid>
 <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
@@ -3663,7 +3680,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 051: Las mujeres pantera</title>
-<link>https://ranchodracula.com/episodes/51-rancho-libre-las-mujeres-pantera/</link>
+<link>https://ranchodracula.com/episodes/051-rancho-libre-las-mujeres-pantera/</link>
 <description>Donde se mantiene el cine club navideño y se comentan las películas &#34;La mujer pantera&#34; (1942) y &#34;El beso de la mujer pantera&#34; (1982).</description>
 <guid isPermaLink="false">episode-051</guid>
 <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
@@ -3680,7 +3697,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 050: Gótico flamígero</title>
-<link>https://ranchodracula.com/episodes/50-rancho-libre-gotico-flamigero/</link>
+<link>https://ranchodracula.com/episodes/050-rancho-libre-gotico-flamigero/</link>
 <description>Donde se monta un cine club navideño y se comenta (demasiado horny on main) &#34;El ansia&#34; de Tony Scott y también se reflexiona sobre la vida eterna y...</description>
 <guid isPermaLink="false">episode-050</guid>
 <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
@@ -3697,7 +3714,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 049: El punk irlandés de Bram Stoker</title>
-<link>https://ranchodracula.com/episodes/49-rancho-libre-el-punk-irlandes-de-bram-stoker/</link>
+<link>https://ranchodracula.com/episodes/049-rancho-libre-el-punk-irlandes-de-bram-stoker/</link>
 <description>Donde se monta un cine club navideño y se serpentea al compás de &#34;La guarida del gusano blanco&#34; de Ken Russell.</description>
 <guid isPermaLink="false">episode-049</guid>
 <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate>
@@ -3714,7 +3731,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 048: ¡Sentimientos!</title>
-<link>https://ranchodracula.com/episodes/48-ranchito-dracula-sentimientos/</link>
+<link>https://ranchodracula.com/episodes/048-ranchito-dracula-sentimientos/</link>
 <description>Donde se hace un comentario desarticulado y titubeante de &#34;Orgullo y prejuicio&#34; de Jane Austen.</description>
 <guid isPermaLink="false">episode-048</guid>
 <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
@@ -3731,7 +3748,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 047: Dejarse algo</title>
-<link>https://ranchodracula.com/episodes/47-ranchito-dracula-dejarse-algo/</link>
+<link>https://ranchodracula.com/episodes/047-ranchito-dracula-dejarse-algo/</link>
 <description>Donde no nos terminamos de leer el bolsilibro &#34;Un ser abominable&#34; de Lou Carrigan, pero aún así nos sirve para hablar un rato de... bueno, de no...</description>
 <guid isPermaLink="false">episode-047</guid>
 <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
@@ -3748,7 +3765,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 046: Hijo Amado de la Casa</title>
-<link>https://ranchodracula.com/episodes/46-rancho-dracula-hijo-amado-de-la-casa/</link>
+<link>https://ranchodracula.com/episodes/046-rancho-dracula-hijo-amado-de-la-casa/</link>
 <description>Donde se hacen Hechizos y Rituales para acceder a la Casa de &#34;Piranesi&#34; de Susanna Clarke.</description>
 <guid isPermaLink="false">episode-046</guid>
 <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
@@ -3765,7 +3782,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 045: Tropicalia</title>
-<link>https://ranchodracula.com/episodes/45-ranchito-dracula-tropicalia/</link>
+<link>https://ranchodracula.com/episodes/045-ranchito-dracula-tropicalia/</link>
 <description>Donde se habla un poco de los recursos narrativos del relato &#34;Un horror tropical&#34; de William H. Hodgson, escritor, marinero y culturista.</description>
 <guid isPermaLink="false">episode-045</guid>
 <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
@@ -3782,7 +3799,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 044: La muerte será viscosa o no será</title>
-<link>https://ranchodracula.com/episodes/44-ranchito-dracula-la-muerte-sera-viscosa-o-no-sera/</link>
+<link>https://ranchodracula.com/episodes/044-ranchito-dracula-la-muerte-sera-viscosa-o-no-sera/</link>
 <description>Donde se analiza la violencia con grumos de &#34;Las babosas&#34; de Shaun Hutson y se piensa si las babosas nos dan más asco en pequeñas viñetas.</description>
 <guid isPermaLink="false">episode-044</guid>
 <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
@@ -3799,7 +3816,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 043: Rancho Libre: El día del Orgullo Friki en Rancho Drácula, pero bien</title>
-<link>https://ranchodracula.com/episodes/43-rancho-libre-el-dia-del-orgullo-friki-en-rancho-dracula-pero-bien/</link>
+<link>https://ranchodracula.com/episodes/043-rancho-libre-el-dia-del-orgullo-friki-en-rancho-dracula-pero-bien/</link>
 <description>Donde se discuten las peculiaridades, alcance y maravillas de la literatura fanfic en compañía de la experta y muy prolífica autora Iratxe</description>
 <guid isPermaLink="false">episode-043</guid>
 <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
@@ -3816,7 +3833,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 042: (Tu mirá) Se me clava en los ojos como una espá</title>
-<link>https://ranchodracula.com/episodes/42-ranchito-dracula-tu-mira-se-me-clava-en-los-ojos-como-una-espa/</link>
+<link>https://ranchodracula.com/episodes/042-ranchito-dracula-tu-mira-se-me-clava-en-los-ojos-como-una-espa/</link>
 <description>Donde se reseña &#34;Ring Shout (Nuestro cántico)&#34; de P. Djèlí Clark, una historia en la que el Ku Klux Klan da todo el asco que tiene que dar.</description>
 <guid isPermaLink="false">episode-042</guid>
 <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
@@ -3833,7 +3850,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 041: La acción, como Crom manda</title>
-<link>https://ranchodracula.com/episodes/41-ranchito-dracula-la-accion-como-crom-manda/</link>
+<link>https://ranchodracula.com/episodes/041-ranchito-dracula-la-accion-como-crom-manda/</link>
 <description>Donde se analiza a pecho descubierto y espadón en ristre alguna escena de acción del &#34;Conan&#34; de Robert E. Howard.</description>
 <guid isPermaLink="false">episode-041</guid>
 <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
@@ -3850,7 +3867,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 040: El vampirato</title>
-<link>https://ranchodracula.com/episodes/40-rancho-dracula-el-vampirato/</link>
+<link>https://ranchodracula.com/episodes/040-rancho-dracula-el-vampirato/</link>
 <description>Donde se comentan (¡en directo!) &#34;Rancho Drácula&#34; de Silver Kane y &#34;Año Drácula&#34; de Kim Newman, durante el Hostia Un Libro 2021.</description>
 <guid isPermaLink="false">episode-040</guid>
 <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
@@ -3867,7 +3884,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 039: La Virgen de Talpa</title>
-<link>https://ranchodracula.com/episodes/39-ranchito-dracula-la-virgen-de-talpa/</link>
+<link>https://ranchodracula.com/episodes/039-ranchito-dracula-la-virgen-de-talpa/</link>
 <description>Donde se comenta la vertiente noir del relato &#34;Talpa&#34; de Juan Rulfo, incluido en &#34;El llano en llamas&#34;.</description>
 <guid isPermaLink="false">episode-039</guid>
 <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
@@ -3884,7 +3901,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 038: El drama de los nazis buenos</title>
-<link>https://ranchodracula.com/episodes/38-ranchito-dracula-el-drama-de-los-nazis-buenos/</link>
+<link>https://ranchodracula.com/episodes/038-ranchito-dracula-el-drama-de-los-nazis-buenos/</link>
 <description>En el que se analiza la fetichización del nazismo usando la novelita de Curtis Garland &#34;Desde ultratumba&#34;, una película de muñecos asesinos y la...</description>
 <guid isPermaLink="false">episode-038</guid>
 <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
@@ -3901,7 +3918,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 037: DUNC</title>
-<link>https://ranchodracula.com/episodes/37-rancho-dracula-dunc/</link>
+<link>https://ranchodracula.com/episodes/037-rancho-dracula-dunc/</link>
 <description>Donde se analiza la novela &#34;Dune&#34; de Frank Herbert con cierto sentido del oportunismo.</description>
 <guid isPermaLink="false">episode-037</guid>
 <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
@@ -3918,7 +3935,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 036: Mattie, una aproximación</title>
-<link>https://ranchodracula.com/episodes/36-ranchito-dracula-mattie-una-aproximacion/</link>
+<link>https://ranchodracula.com/episodes/036-ranchito-dracula-mattie-una-aproximacion/</link>
 <description>Donde se recomienda, más que se analiza, la novela &#34;Valor de ley&#34; de Charles Portis (y también se tiene resaca).</description>
 <guid isPermaLink="false">episode-036</guid>
 <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
@@ -3935,7 +3952,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 035: Not today, Satan</title>
-<link>https://ranchodracula.com/episodes/35-ranchito-dracula-not-today-satan/</link>
+<link>https://ranchodracula.com/episodes/035-ranchito-dracula-not-today-satan/</link>
 <description>Donde se desmenuza el libro &#34;Corazón de ángel&#34; de William Hjortsberg y se habla, entre otras cosas, de finales temerarios, textos que se desenvuelven...</description>
 <guid isPermaLink="false">episode-035</guid>
 <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
@@ -3952,7 +3969,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 034: Las cosas de La Cosa</title>
-<link>https://ranchodracula.com/episodes/34-rancho-libre-las-cosas-de-la-cosa/</link>
+<link>https://ranchodracula.com/episodes/034-rancho-libre-las-cosas-de-la-cosa/</link>
 <description>Donde se clausura un cine de verano hablando de &#34;El enigma de otro mundo&#34; (1951) y &#34;La Cosa&#34; (1982) y del relato que adaptan ambas, &#34;Who Goes There?&#34;...</description>
 <guid isPermaLink="false">episode-034</guid>
 <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
@@ -3969,7 +3986,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 033: El caramelero</title>
-<link>https://ranchodracula.com/episodes/33-rancho-libre-el-caramelero/</link>
+<link>https://ranchodracula.com/episodes/033-rancho-libre-el-caramelero/</link>
 <description>Donde se monta un cine de verano y se comenta &#34;Candyman&#34; (1992), película que adapta &#34;Lo prohibido&#34;, un relato particularmente pringoso y onírico de...</description>
 <guid isPermaLink="false">episode-033</guid>
 <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
@@ -3986,7 +4003,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 032: Dos ojos diabólicos</title>
-<link>https://ranchodracula.com/episodes/32-rancho-libre-dos-ojos-diabolicos/</link>
+<link>https://ranchodracula.com/episodes/032-rancho-libre-dos-ojos-diabolicos/</link>
 <description>Donde se monta un cine de verano y se comenta &#34;Two Evil Eyes&#34;, película dirigida a pachas por George Romero y Dario Argento, en la que se adaptan...</description>
 <guid isPermaLink="false">episode-032</guid>
 <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
@@ -4003,7 +4020,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 031: La patrulla felina</title>
-<link>https://ranchodracula.com/episodes/31-rancho-libre-la-patrulla-felina/</link>
+<link>https://ranchodracula.com/episodes/031-rancho-libre-la-patrulla-felina/</link>
 <description>Donde se monta un cine de verano y se habla de &#34;Sonámbulos&#34; (1992), una película con guion original de Stephen King.</description>
 <guid isPermaLink="false">episode-031</guid>
 <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
@@ -4020,7 +4037,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 030: Eddie Coyle no tiene amigos</title>
-<link>https://ranchodracula.com/episodes/30-ranchito-dracula-eddie-coyle-no-tiene-amigos/</link>
+<link>https://ranchodracula.com/episodes/030-ranchito-dracula-eddie-coyle-no-tiene-amigos/</link>
 <description>Donde se habla del estilo y los temas literarios de &#34;Los amigos de Eddie Coyle&#34; de George V. Higgins.</description>
 <guid isPermaLink="false">episode-030</guid>
 <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
@@ -4037,7 +4054,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 029: Cuando gané un Nebula gracias a Asimov</title>
-<link>https://ranchodracula.com/episodes/29-rancho-dracula-cuando-gane-un-nebula-gracias-a-asimov/</link>
+<link>https://ranchodracula.com/episodes/029-rancho-dracula-cuando-gane-un-nebula-gracias-a-asimov/</link>
 <description>Donde analizamos la sitcom &#34;Mythic Quest&#34;, y sobre todo, un par de episodios especiales que inciden en el tema de la creatividad y en sus...</description>
 <guid isPermaLink="false">episode-029</guid>
 <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
@@ -4054,7 +4071,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 028: El monstruo que leía a Plutarco</title>
-<link>https://ranchodracula.com/episodes/28-rancho-dracula-el-monstruo-que-leia-a-plutarco/</link>
+<link>https://ranchodracula.com/episodes/028-rancho-dracula-el-monstruo-que-leia-a-plutarco/</link>
 <description>Donde hablamos de &#34;Frankenstein o el moderno Prometeo&#34; de Mary Shelley y celebramos el nacimiento de la ciencia ficción tal y como la entendemos hoy...</description>
 <guid isPermaLink="false">episode-028</guid>
 <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
@@ -4071,7 +4088,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 027: El problema alienígena</title>
-<link>https://ranchodracula.com/episodes/27-ranchito-dracula-el-problema-alienigena/</link>
+<link>https://ranchodracula.com/episodes/027-ranchito-dracula-el-problema-alienigena/</link>
 <description>Donde se comenta &#34;Enjambre&#34; de Bruce Sterling y se tiene una breve reflexión sobre el problema de escribir alienígenas verdaderamente extraños.</description>
 <guid isPermaLink="false">episode-027</guid>
 <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
@@ -4088,7 +4105,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 026: Las abejas no, no las abejas</title>
-<link>https://ranchodracula.com/episodes/26-ranchito-dracula-las-abejas-no-no-las-abejas/</link>
+<link>https://ranchodracula.com/episodes/026-ranchito-dracula-las-abejas-no-no-las-abejas/</link>
 <description>Donde se examina &#34;Las 100 primeras películas de Nicolas Cage&#34; y se decide si es un ejemplo de crítica cinematográfica revolucionaria o solo un libro...</description>
 <guid isPermaLink="false">episode-026</guid>
 <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
@@ -4105,7 +4122,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 025: ¡Muerte al realismo!</title>
-<link>https://ranchodracula.com/episodes/25-rancho-libre-muerte-al-realismo/</link>
+<link>https://ranchodracula.com/episodes/025-rancho-libre-muerte-al-realismo/</link>
 <description>Donde se analiza y comenta la película &#34;eXistenZ&#34; dirigida por David Cronenberg y se habla también de videjuegos y nuevas carnes.</description>
 <guid isPermaLink="false">episode-025</guid>
 <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
@@ -4122,7 +4139,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 024: Bárbaros y parábolas (y licántropos) 2</title>
-<link>https://ranchodracula.com/episodes/24-barbaros-y-parabolas-y-licantropos-2/</link>
+<link>https://ranchodracula.com/episodes/024-barbaros-y-parabolas-y-licantropos-2/</link>
 <description>Donde se remata un ranchito anterior hablando de literatura fantástica que no se vende como tal y de la novela de hombres lobo de John Steinbeck.</description>
 <guid isPermaLink="false">episode-024</guid>
 <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
@@ -4139,7 +4156,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 023: Las catacumbas del bolsilibro</title>
-<link>https://ranchodracula.com/episodes/23-ranchito-dracula-las-catacumbas-del-bolsilibro/</link>
+<link>https://ranchodracula.com/episodes/023-ranchito-dracula-las-catacumbas-del-bolsilibro/</link>
 <description>Donde aprovechando la lectura de &#34;En la tumba, oscuridad&#34; de Clark Carrados se plantean otras cuestiones, como si es necesario acercarse con pies de...</description>
 <guid isPermaLink="false">episode-023</guid>
 <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
@@ -4156,7 +4173,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 022: El problema de tener ideas</title>
-<link>https://ranchodracula.com/episodes/22-rancho-libre-el-problema-de-tener-ideas/</link>
+<link>https://ranchodracula.com/episodes/022-rancho-libre-el-problema-de-tener-ideas/</link>
 <description>Donde se monta una conversación a tres bandas con María Bonete, autora de &#34;No hay tierra donde enterrarme&#34;, acerca del lugar de donde surgen las ideas...</description>
 <guid isPermaLink="false">episode-022</guid>
 <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
@@ -4173,7 +4190,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 021: Bárbaros y parábolas 1</title>
-<link>https://ranchodracula.com/episodes/21-ranchito-dracula-barbaros-y-parabolas-1/</link>
+<link>https://ranchodracula.com/episodes/021-ranchito-dracula-barbaros-y-parabolas-1/</link>
 <description>Donde se expresan algunas ideas sobre &#34;Esperando a los bárbaros&#34; de J. M. Coetzee, pero no todas.</description>
 <guid isPermaLink="false">episode-021</guid>
 <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
@@ -4190,7 +4207,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 020: Instrucciones para reciclar cerveza</title>
-<link>https://ranchodracula.com/episodes/20-ranchito-dracula-instrucciones-para-reciclar-cerveza/</link>
+<link>https://ranchodracula.com/episodes/020-ranchito-dracula-instrucciones-para-reciclar-cerveza/</link>
 <description>Donde no se habla demasiado de Charles Bukowski, pero sí de &#34;Barfly&#34;, el único guión de cine que escribió, y de cómo hay distintas formas de mitificar...</description>
 <guid isPermaLink="false">episode-020</guid>
 <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
@@ -4207,7 +4224,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 019: Un episodio muy jonino</title>
-<link>https://ranchodracula.com/episodes/19-rancho-dracula-6-un-episodio-muy-jonino/</link>
+<link>https://ranchodracula.com/episodes/019-rancho-dracula-6-un-episodio-muy-jonino/</link>
 <description>Donde se habla de &#34;Misery&#34; de Stephen King y de las tribulaciones de la escritura y se acaba más ocupado que un empapelador manco.</description>
 <guid isPermaLink="false">episode-019</guid>
 <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
@@ -4224,7 +4241,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 018: Horrores en Dunwich</title>
-<link>https://ranchodracula.com/episodes/18-ranchito-dracula-horrores-en-dunwich/</link>
+<link>https://ranchodracula.com/episodes/018-ranchito-dracula-horrores-en-dunwich/</link>
 <description>Donde se habla de algunos méritos de &#34;El horror de Dunwich&#34; de Lovecraft y también un poco de la película &#34;El horror de Dunwich&#34; de Daniel Haller.</description>
 <guid isPermaLink="false">episode-018</guid>
 <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
@@ -4241,7 +4258,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 017: El problema de escribir y luego contarlo</title>
-<link>https://ranchodracula.com/episodes/17-ranchito-dracula-el-problema-de-escribir-y-luego-contarlo/</link>
+<link>https://ranchodracula.com/episodes/017-ranchito-dracula-el-problema-de-escribir-y-luego-contarlo/</link>
 <description>Donde se habla de un par de películas, &#34;Shirley&#34; y &#34;El almuerzo desnudo&#34;, que abordan el peliagudo tema de la creatividad literaria.</description>
 <guid isPermaLink="false">episode-017</guid>
 <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
@@ -4258,7 +4275,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 016: El díptico problemático</title>
-<link>https://ranchodracula.com/episodes/16-rancho-libre-el-diptico-problematico/</link>
+<link>https://ranchodracula.com/episodes/016-rancho-libre-el-diptico-problematico/</link>
 <description>Donde se habla de &#34;Bug&#34; y &#34;Killer Joe&#34;, dos películas dirigidas por William Friedkin y escritas por Tracy Letts que te ponen la cabeza como un bombo.</description>
 <guid isPermaLink="false">episode-016</guid>
 <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
@@ -4275,7 +4292,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 015: Saladito O&#39;Rourke</title>
-<link>https://ranchodracula.com/episodes/15-ranchito-dracula-saladito-orourke/</link>
+<link>https://ranchodracula.com/episodes/015-ranchito-dracula-saladito-orourke/</link>
 <description>Donde se reseña &#34;Un balazo al corazón&#34; de Lou Carrigan y se habla otra vez de vaqueros y pistoleros.</description>
 <guid isPermaLink="false">episode-015</guid>
 <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
@@ -4292,7 +4309,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 014: Juegos de manos</title>
-<link>https://ranchodracula.com/episodes/14-ranchito-dracula-juegos-de-manos/</link>
+<link>https://ranchodracula.com/episodes/014-ranchito-dracula-juegos-de-manos/</link>
 <description>Donde se hace aparecer de una chistera el ensayo sobre cine e ilusionismo &#34;Abracadabra&#34;, de Pepe Aracil.</description>
 <guid isPermaLink="false">episode-014</guid>
 <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
@@ -4309,7 +4326,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 013: Verbena alejandrina</title>
-<link>https://ranchodracula.com/episodes/13-rancho-dracula-5-verbena-alejandrina/</link>
+<link>https://ranchodracula.com/episodes/013-rancho-dracula-5-verbena-alejandrina/</link>
 <description>Donde se mira más allá del velo órfico y se comenta &#34;La perra de Alejandría&#34; de Pilar Pedraza.</description>
 <guid isPermaLink="false">episode-013</guid>
 <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
@@ -4326,7 +4343,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 012: His House</title>
-<link>https://ranchodracula.com/episodes/12-ranchito-dracula-lo-cotidiano-y-lo-cosmico/</link>
+<link>https://ranchodracula.com/episodes/012-ranchito-dracula-lo-cotidiano-y-lo-cosmico/</link>
 <description>Donde se reseña &#34;Clima&#34; de Jenny Offill y se piensa en las maneras en las que se puede sacar a un caballo de un incendio.</description>
 <guid isPermaLink="false">episode-012</guid>
 <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
@@ -4343,7 +4360,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 011: Las bondades del canibalismo</title>
-<link>https://ranchodracula.com/episodes/11-rancho-libre-las-bondades-del-canibalismo/</link>
+<link>https://ranchodracula.com/episodes/011-rancho-libre-las-bondades-del-canibalismo/</link>
 <description>Donde se habla de “Ravenous” de Antonia Bird aunque es una película y no un libro.</description>
 <guid isPermaLink="false">episode-011</guid>
 <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
@@ -4360,7 +4377,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 010: Solución al crimen en las últimas páginas</title>
-<link>https://ranchodracula.com/episodes/10-ranchito-dracula-solucion-al-crimen-en-las-ultimas-paginas/</link>
+<link>https://ranchodracula.com/episodes/010-ranchito-dracula-solucion-al-crimen-en-las-ultimas-paginas/</link>
 <description>Donde se curiosea en la obra del autor de krimi-juegos Wolfgang Ecke, que llenó los años ochenta de delincuencia para todos los públicos y comisarios...</description>
 <guid isPermaLink="false">episode-010</guid>
 <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
@@ -4377,7 +4394,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 009: Fantástico por poderes 2 / Anareta</title>
-<link>https://ranchodracula.com/episodes/9-ranchito-dracula-fantastico-por-poderes-2-anareta/</link>
+<link>https://ranchodracula.com/episodes/009-ranchito-dracula-fantastico-por-poderes-2-anareta/</link>
 <description>Donde se explora un planeta de destrucción siguiendo las coordenadas de &#34;Meridiano de sangre&#34; de Cormac McCarthy.</description>
 <guid isPermaLink="false">episode-009</guid>
 <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
@@ -4394,7 +4411,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 008: Reconocimiento de patrones</title>
-<link>https://ranchodracula.com/episodes/8-rancho-dracula-4-reconocimiento-de-patrones/</link>
+<link>https://ranchodracula.com/episodes/008-rancho-dracula-4-reconocimiento-de-patrones/</link>
 <description>Donde se examina &#34;Mundo Espejo&#34; de William Gibson y se intenta no hablar de ciberpunk pero no se consigue.</description>
 <guid isPermaLink="false">episode-008</guid>
 <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
@@ -4411,7 +4428,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 007: La literatura también tiene su serie B, de &#34;Slugs&#34; a &#34;Las ratas&#34;</title>
-<link>https://ranchodracula.com/episodes/7-ranchito-dracula-la-literatura-tambien-tiene-su-serie-b-de-slugs-a-las-ratas/</link>
+<link>https://ranchodracula.com/episodes/007-ranchito-dracula-la-literatura-tambien-tiene-su-serie-b-de-slugs-a-las-ratas/</link>
 <description>Donde nos adentramos en &#34;Paginas desde el averno&#34; de Víctor Castillo Rodríguez, un frenético descenso a los horrores de la serie B literaria de los...</description>
 <guid isPermaLink="false">episode-007</guid>
 <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
@@ -4428,7 +4445,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 006: Fantástico por poderes 1.5 / Ruta paisajística</title>
-<link>https://ranchodracula.com/episodes/6-ranchito-dracula-fantastico-por-poderes-15-ruta-paisajistica/</link>
+<link>https://ranchodracula.com/episodes/006-ranchito-dracula-fantastico-por-poderes-15-ruta-paisajistica/</link>
 <description>Donde se habla de la función narrativa de los paisajes en general y de “Las uvas de la ira” de John Steinbeck en particular.</description>
 <guid isPermaLink="false">episode-006</guid>
 <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
@@ -4445,7 +4462,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 005: Cumbres Diabólicas</title>
-<link>https://ranchodracula.com/episodes/5-rancho-dracula-3-cumbres-diabolicas/</link>
+<link>https://ranchodracula.com/episodes/005-rancho-dracula-3-cumbres-diabolicas/</link>
 <description>Donde se charla con bastante entusiasmo de “Cumbres Borrascosas” de Emily Brontë y su splatterpunk emocional decimonónico</description>
 <guid isPermaLink="false">episode-005</guid>
 <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
@@ -4462,7 +4479,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 004: Elige tu propia aventura</title>
-<link>https://ranchodracula.com/episodes/4-ranchito-dracula-elige-tu-propia-aventura/</link>
+<link>https://ranchodracula.com/episodes/004-ranchito-dracula-elige-tu-propia-aventura/</link>
 <description>Donde se deambula por el laberinto narrativo de un par de librojuegos de &#34;Elige tu propia aventura&#34; de temática más bien macabra.</description>
 <guid isPermaLink="false">episode-004</guid>
 <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
@@ -4479,7 +4496,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 003: Fantástico por poderes 1 / McCarthy on the road</title>
-<link>https://ranchodracula.com/episodes/3-ranchito-dracula-fantastico-por-poderes-1-mccarthy-on-the-road/</link>
+<link>https://ranchodracula.com/episodes/003-ranchito-dracula-fantastico-por-poderes-1-mccarthy-on-the-road/</link>
 <description>Donde se divaga sobre el aspecto fantástico de &#34;La carretera&#34; de Cormac McCarthy de manera bastante desordenada.</description>
 <guid isPermaLink="false">episode-003</guid>
 <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
@@ -4496,7 +4513,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 002: El territorio pulp de Matt Ruff (y Lovecraft)</title>
-<link>https://ranchodracula.com/episodes/2-rancho-dracula-2-el-territorio-pulp-de-matt-ruff-y-lovecraft/</link>
+<link>https://ranchodracula.com/episodes/002-rancho-dracula-2-el-territorio-pulp-de-matt-ruff-y-lovecraft/</link>
 <description>Donde se intenta resolver cuánto de Lovecraft hay en &#34;Territorio Lovecraft&#34; de Matt Ruff y se llega a alguna conclusión al respecto.</description>
 <guid isPermaLink="false">episode-002</guid>
 <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
@@ -4513,7 +4530,7 @@ type="audio/mpeg"
 </item>
 <item>
 <title>Episode 001: Hill House vs Hell House</title>
-<link>https://ranchodracula.com/episodes/1-rancho-dracula-1-hill-house-vs-hell-house/</link>
+<link>https://ranchodracula.com/episodes/001-rancho-dracula-1-hill-house-vs-hell-house/</link>
 <description>Donde se comentan las esotéricas similitudes entre &#34;La maldición de Hill House&#34; de Shirley Jackson y &#34;La casa infernal&#34; de Richard Matheson y la problemática general de las mansiones embrujadas.</description>
 <guid isPermaLink="false">episode-001</guid>
 <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
